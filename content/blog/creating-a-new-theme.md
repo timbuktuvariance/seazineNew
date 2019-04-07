@@ -54,7 +54,7 @@ Your second choice is to create it in a sub-directory of the `themes/` directory
 
 ### The Home Page
 
-The home page, or landing page, is the first page that many visitors to a site see. It is the index.html file in the root directory of the web site. Since Hugo writes files to the public/ directory, our home page is public/index.html.
+The home page, or landing page, is the first page that many visitors to a site see. It is the index.html file in the root directory o
 
 ### Site Configuration File
 
