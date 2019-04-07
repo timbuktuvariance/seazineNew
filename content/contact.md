@@ -3,6 +3,6 @@ id = "contact"
 title = "Contact"
 
 +++
-# We are here to help you
+# Any questions?
 
-Are you curious about something? Do you have some kind of 
+Send us an email 
