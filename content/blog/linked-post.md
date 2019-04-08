@@ -3,6 +3,7 @@ author = "John Doe"
 banner = "img/banners/banner-4.jpg"
 categories = ["programming"]
 date = "2015-10-02T21:49:20+02:00"
+draft = true
 tags = ["golang", "programming", "theme", "hugo"]
 title = "Linked post"
 
