@@ -5,4 +5,6 @@ title = "Contact"
 +++
 # Any questions?
 
-Send us an email 
+Twitter
+
+Contact form
