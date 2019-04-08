@@ -2,6 +2,7 @@
 banner = "img/banners/banner-3.jpg"
 categories = ["pseudo"]
 date = "2015-08-03T13:39:46+02:00"
+draft = true
 tags = ["hugo"]
 title = "Hugo is for lovers"
 
