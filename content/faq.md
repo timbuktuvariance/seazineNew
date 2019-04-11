@@ -1,5 +1,6 @@
 +++
 description = "Frequently asked questions"
+draft = true
 keywords = ["FAQ", "How do I", "questions", "what if"]
 title = "FAQ"
 
