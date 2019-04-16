@@ -1,11 +1,13 @@
 +++
 draft = true
-id = "contact"
-title = "Contact"
+id = "about"
+title = "About"
 
 +++
-# Any questions?
+# About Seazine
 
-Twitter: [https://twitter.com/Manuela_de_Rios](https://twitter.com/Manuela_de_Rios "https://twitter.com/Manuela_de_Rios")
+SeaZINE is a platform to share fascinating stories, ideas and visuals about sea life and people. I hope to inspire and move myself and others to take action to help protect and restore our seas and coastal areas.
 
-Contact![](/uploads/IMG_4520.JPG)
+## About me
+
+I am a marine scientist and environmental communicator. I work with communities and organisations to bring about positive changes to our lives and natural environment. I’m also a printmaker and a water baby – give me a shout if you fancy a dip in the Tay! I am based in Dundee, Scotland. More professional stuff on my LinkedIn and my opinions and news on Twitter. 
