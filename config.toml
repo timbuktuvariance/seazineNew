@@ -1,4 +1,4 @@
-baseurl = "https://seazine.org"
+baseurl = "http://seazine.org"
 title = "seaZine"
 theme = "universal"
 languageCode = "en-us"
