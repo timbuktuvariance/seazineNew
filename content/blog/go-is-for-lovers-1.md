@@ -1,6 +1,6 @@
 +++
 banner = "img/banners/banner-2.jpg"
-categories = ["programming"]
+categories = ["programming", "interpretation"]
 date = "2015-09-17T13:47:08+02:00"
 draft = true
 tags = ["go"]
@@ -12,6 +12,8 @@ Summary
 ## Words matter
 
 Cateran write up
+
+![](/uploads/cateranlandscape.jpg)
 
 ## Basic Syntax
 
