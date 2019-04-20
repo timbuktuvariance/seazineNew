@@ -15,7 +15,7 @@ title = "Links"
 
 [https://www.sift-uk.org/](https://www.sift-uk.org/ "https://www.sift-uk.org/")
 
-						<svg version="1.1" viewBox="0 0 573 170.79" class="sift-logo-svg">
+<svg version="1.1" viewBox="0 0 573 170.79" class="sift-logo-svg">
 <g id="Layer_T">
 	<g>
 		<path d="M471.91,56.74c8.69-1.6,15.36,1.67,20.89-3.67c0.63-0.6,1.23-2.14,0.9-2.53c-0.65-0.76-1.79-0.19-3.2-0.85
